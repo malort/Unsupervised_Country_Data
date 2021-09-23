@@ -1,9 +1,7 @@
-# TELECOM_USERS
+# Unsupervised_Country_Data 
 
-The dataset comes from a telecommunications company:
-https://drive.google.com/file/d/1dPCG76ST6NohYKtVMGv6HpFL-jD5p1eJ/view
-
-The goal is to predict customer churn using Machine Learning.
+Dataset provided by HELP International. 
+The objective is to determine the overall development of the countries using socio-economic and health factors.
 
 ## Requirements:
 
@@ -17,7 +15,7 @@ The goal is to predict customer churn using Machine Learning.
 
 ```scikit-learn:``` Machine Learning library.
 
-```XGBoost:``` Decision-tree-based ensemble Machine Learning algorithm.
+```Bokeh:``` Library for interactive data visualization.
 
-```LightGBM:``` Gradient boosting framework that uses tree based learning algorithms.
+```Plotly Express:``` High-level Python visualization library.
 
