@@ -21,7 +21,7 @@ The objective is to categorize countries according to the overall development us
 
 ## First part - EDA and Unsupervised Analysis:
 
-After a brief exploratory data analysis, several unsupervised algorithms such as Kmeans, Affinity Propagation and Gaussian Mixture Model are used to group contries in to three categories.
+After a brief exploratory data analysis, several unsupervised algorithms such as Kmeans, Affinity Propagation and Gaussian Mixture Model are used to group countries into three categories.
 
 ## Second part - Dimension reduction with t-SNE and Maps visualizations:
 
